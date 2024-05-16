@@ -6,7 +6,7 @@
 </p>
 
 <h2>Descrição do projeto</h2>
-Esse foi um projeto realizado durante meu curso de <a href="https://cursos.alura.com.br/formacao-programacao" target="_blank" rel="noopener">Lógica de Pregramação na Alura</a>.
+Esse foi um projeto realizado durante meu curso de <a href="https://cursos.alura.com.br/formacao-programacao" target="_blank">Lógica de Programação na Alura</a>.
 
 <h3>💻Funcionalidades</h3>
 <ol>
@@ -51,4 +51,3 @@ Você pode acessar o código fonte do projeto através da documentação do repo
 </ul>
 
 <h2>Desenvolvedor</h2>
-<img loading="lazy" src="minha foto 😙"
