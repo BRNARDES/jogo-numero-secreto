@@ -6,7 +6,7 @@
 </p>
 
 <h2>Descrição do projeto</h2>
-Esse foi um projeto realizado durante meu curso de <a href="https://cursos.alura.com.br/formacao-programacao" target="_blank">Lógica de Programação na Alura</a>.
+<p>Esse foi um projeto realizado durante meu curso de <a href="https://cursos.alura.com.br/formacao-programacao" target="_blank" rel="noopener">Lógica de Programação na Alura</a>.</p>
 
 <h3>💻Funcionalidades</h3>
 <ol>
